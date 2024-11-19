@@ -1,4 +1,4 @@
-👋 Hi, I’m Zeno Elio Leonardi
+👋 Hei, jeg heter Zeno Elio Leonardi og studerer informatikk på UiB.
 
 
 <!---
